@@ -6,7 +6,7 @@ https://duck.money Welkom to Scrooge's Money Bin!
 
 ### BSCMAINNET
 
-- DuckToken - https://bscscan.com/token/0xf952fc3ca7325cc27d15885d37117676d25bfda6
-- MoneyBin - https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57
-- Timelock - https://bscscan.com/address/0x2Ef488DE034567e9B8D312928fD52812A242aB3A
+- DuckToken - https://bscscan.com/token/0xbe2aa50783c59b29d397ad45f6b6069ac139124f
+- MoneyBin - https://bscscan.com/address/0xaC783666121a26886Bd08b22137149a147Ee2a6c
+- Timelock - https://bscscan.com/address/0xAAa8253E81b2dca58db1A5cB39A9e2EBeD022444
 - MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
